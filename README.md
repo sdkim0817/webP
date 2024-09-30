@@ -12,3 +12,9 @@
    - 3주차 연습
    - CSS3 style 공부
    - 
+
+object-gen.html
+- 객체 생성 3가지 방법 연습
+
+prac8-4.html: 연습문제 8-4
+prac8-6.html: 연습문제 8-6
